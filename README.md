@@ -1,4 +1,13 @@
-### Hi there 👋
+### hello :earth_americas:
+
+## I'm Carlos Camuzzi :grin:
+
+- :books: I'm student
+- 🌱 I’m currently learning MongoDB, Microservices Architecture and C#
+
+# Technologies:
+<i class="devicon-csharp-plain colored"></i>
+
 
 <!--
 **CarlosCamuzzi/CarlosCamuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
