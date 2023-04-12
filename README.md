@@ -6,9 +6,7 @@
 - 🌱 I’m currently learning MongoDB, Microservices Architecture and C#
 
 # Technologies:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-
-
+![image](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg {width=40px height=400px})
 <!--
 **CarlosCamuzzi/CarlosCamuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
