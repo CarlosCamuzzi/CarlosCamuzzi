@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning MongoDB, Microservices Architecture and C#
 
 # Technologies:
-<i class="devicon-csharp-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 
 
 <!--
