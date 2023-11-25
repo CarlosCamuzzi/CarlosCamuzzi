@@ -3,7 +3,7 @@
 ## I'm Carlos Camuzzi :grin:
 
 - :books: I'm student
-- 🌱 I’m currently learning ABAP.
+- 🌱 I’m currently learning C# .NET
 
 ### Technologies:
 
