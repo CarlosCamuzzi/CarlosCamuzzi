@@ -11,7 +11,7 @@
 - [Estudos POO em ABAP](https://github.com/CarlosCamuzzi/abap-poo)
 - [Projeto em ABAP: Sistema de Gestão de Transportes](https://github.com/CarlosCamuzzi/abap-sistema-gestao-transportes)
 
-### Technologies:
+### Tecnologias:
 <img width="30" height="30" loading="lazy" src="https://img.jsdelivr.com/github.com/SAP.png"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" /> 
 
 <!--
