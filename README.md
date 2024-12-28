@@ -2,8 +2,7 @@
 
 ## I'm Carlos Camuzzi :grin:
 
-- :books: I'm student
-- 🌱 I’m currently learning C# .NET
+- :books: SAP / ABAP
 
 ### Technologies:
 
