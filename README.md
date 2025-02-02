@@ -2,15 +2,15 @@
 
 ## Carlos Camuzzi :grin:
 
-- :books: SAP / ABAP
-- 🌱 Estudando ABAP
-- 🌱 Também tenho experiência com C#, JS e HTML
+- :books: SAP 
+- 🌱 Estudando ABAP e SAP Fiori
 
 ### Repositórios:
 - [Estudos ABAP geral](https://github.com/CarlosCamuzzi/abap-estudo-geral)
 - [Estudos POO ABAP](https://github.com/CarlosCamuzzi/abap-poo)
 - [Estudos SAP FIORI](https://github.com/CarlosCamuzzi/abap-fiori)
 
+### Projetos Pessoais
 - [Projeto ABAP: Sistema de Gestão de Padaria](https://github.com/CarlosCamuzzi/abap-top-bakery)
 - [Projeto ABAP: Sistema de Gestão de Transportes](https://github.com/CarlosCamuzzi/abap-sistema-gestao-transportes)
 
